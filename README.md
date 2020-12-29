@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋🏾
 
 ## I am Abel Joshua
 
@@ -12,7 +12,7 @@ I am proficient in the following programing languages: Javascript, Typescript, J
 **Fun fact**: I started coding when I was 9, became a freelancer at 14 and I have been coding ever since.
 
 
-🤔  I’m looking for help with: Getting a remote job.
+**I’m looking for help with**: Getting a remote job.
 
 
 ## Find me around the web
