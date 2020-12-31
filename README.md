@@ -2,7 +2,7 @@
 
 ## I am Abel Joshua
 
-A full-stack software developer who is passionate about building cool products, writing technical articles and building a tech community. I enjoy working with: Angular, React.js, React Native, Java, PHP, Javascript and Typescript.
+A full-stack software developer who is passionate about building cool products, writing technical articles and building a tech community. I enjoy working with: Angular, React.js, React Native, Java, Kotlin, PHP, Javascript and Typescript.
 
 I do Backend Development (PHP and Node.js), Frontend (React.js and Angular), Mobile Development (React Native, Java/Kotlin).
 <!--
@@ -17,7 +17,7 @@ I am proficient in the following programing languages: Javascript, Typescript, J
 
 ## Find me around the web
 
-* Sharing my thoughts stuff I am building on [Twitter](https://twitter.com/iamabeljoshua)
+* Sharing my thoughts on stuff I am building on [Twitter](https://twitter.com/iamabeljoshua)
 
 * Sharing updates on [Linkedin](https://linkedin.com/in/iamabeljoshua)
 
